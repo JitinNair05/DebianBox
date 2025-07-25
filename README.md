@@ -1,2 +1,1 @@
-# DebianBox
-_.
+# DebianBox #
